@@ -1,0 +1,12 @@
+body {
+    padding: 25px;
+}
+
+.container {
+    display: flex;
+}
+.panel {
+    flex: 1;
+    margin-left: 25px;
+    margin-right: 25px;
+}
